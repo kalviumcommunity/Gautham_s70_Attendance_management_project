@@ -25,3 +25,7 @@ It contains a simple Java application that prints **"Welcome to Attendance Syste
    - Inside `src/com/school/`, created `Main.java`.
 
 
+**code along project**
+compile- javac src/Component/src/Main.java
+
+screenshot = https://drive.google.com/file/d/1ZFPg-nVIpQAdG3iOe8u_7gCvMBcSWaJv/view?usp=sharing
